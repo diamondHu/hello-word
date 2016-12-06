@@ -1,4 +1,4 @@
 # hello-word
 Just a test
 
-I don't konow what to say.
+I don't know what to say.
